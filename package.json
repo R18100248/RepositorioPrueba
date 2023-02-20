@@ -1,0 +1,20 @@
+{
+  "name": "repositorioprueba",
+  "version": "1.0.0",
+  "description": "Modulo de frases motivacionales aleatorias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R18100248/RepositorioPrueba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R18100248/RepositorioPrueba/issues"
+  },
+  "homepage": "https://github.com/R18100248/RepositorioPrueba#readme"
+}
